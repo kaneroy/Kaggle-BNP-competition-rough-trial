@@ -1,0 +1,15 @@
+As this is an excercise, I do not clean my code because someone can read what I am thinking and trying during the first part of the code. 
+From "re-cleaning data" part, the real work starts. 
+
+This competition does not show any meaning of features except listing the number of features. Thus, I cannot do many feature engineering jobs
+except filling in the missing values, transfer obj variable to int and ect. 
+
+My laptop cannot run gridsearch cross validation for random forest due to limited computing resources so I tried a decision tree too which 
+is the base for building random forest. The purpose of this trial is for an interview to show some data analytics skills so maybe the result
+is not so important as long as I show the procedure to do it.
+
+Although results may be not good, this code shows my understanding of how to deal with such problems and it is done from the beginning to the 
+end within one day. There are many more techniques to improve results such as blending more models, doing some feature engineering to create
+more features or using PCA to clean and preclude some features in the beginning. I believe a good model is done by trying lots of methods to 
+fit the data and it is just time-consuming to reach the best. For the purpose of this trial, this code will not be used for kaggle competition.
+
